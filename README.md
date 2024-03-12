@@ -16,9 +16,15 @@ In order to follow this course without delay, you must have the following techno
 
 Open your terminal and install the following libraries:
 
-`pip install djitellopy`
-`pip install opencv-python`
-`pip install opencv-contrib-python`
+Install DJITelloPy libraries
+
+`sudo pip install djitellopy`
+
+Install OpenCv libraries for image recognizition
+`sudo pip install opencv-python`
+
+`sudo pip install opencv-contrib-python`
+
 `pip install flask`
 
 Lecturer: Javier Herrera
