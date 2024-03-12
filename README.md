@@ -10,11 +10,16 @@ In order to follow this course without delay, you must have the following techno
 
 - [Visual Studio Code](https://code.visualstudio.com/Download "Visual Studio Code")
 - [Git](https://git-scm.com/downloads "Git")
-- [Tilix](https://gnunn1.github.io/tilix-web/ "Tilix")
+- [Tilix](https://www.geeksforgeeks.org/how-to-install-tilix-terminal-emulator-in-ubuntu-fedora-arch-linux/)
 
 # Setup
 
 Open your terminal and install the following libraries and packages:
+
+Update the package repositoy to avoid conflicts:
+
+    sudo apt update
+    sudo apt upgrade
 
 Install python3:
 
