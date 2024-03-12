@@ -14,17 +14,25 @@ In order to follow this course without delay, you must have the following techno
 
 # Setup
 
-Open your terminal and install the following libraries:
+Open your terminal and install the following libraries and packages:
+
+Install python3:
+
+`sudo apt install python3`
+
+Verify Insallation:
+
+`python3 --version`
 
 Install DJITelloPy libraries
 
 `sudo pip install djitellopy`
 
-Install OpenCv libraries for image recognizition
-`sudo pip install opencv-python`
+Install OpenCv libraries for image recognizition:
 
-`sudo pip install opencv-contrib-python`
+    sudo pip install openc-python
+    sudo pip install opencv-contrib-python
+    sudo pip install flask
 
-`pip install flask`
 
 Lecturer: Javier Herrera
