@@ -35,7 +35,7 @@ Install DJITelloPy libraries
 
 Install OpenCv libraries for image recognizition:
 
-    sudo pip install openc-python
+    sudo pip install opencv-python
     sudo pip install opencv-contrib-python
     sudo pip install flask
 
